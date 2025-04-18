@@ -1,5 +1,6 @@
 # EXNO-6-DS-DATA VISUALIZATION USING SEABORN LIBRARY
-
+    Name:A.Ranen Joseph Solomon
+    Register Number: 212224040269
 # Aim:
   To Perform Data Visualization using seaborn python library for the given datas.
 
